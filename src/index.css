@@ -30,6 +30,7 @@ main{
 }
 
 .App {
+    max-width: 40em;
   border-radius: 8px;
   text-align: center;
   display: flex;
@@ -38,7 +39,7 @@ main{
   align-items: center;
   gap: 10px;
   background-color: var(--main-background);
-  padding: 2em;
+  padding: 1.2em;
   width: 90vw;
   margin: 5rem 0;
 }
