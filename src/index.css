@@ -52,11 +52,9 @@ main{
 }
 .btn {
   cursor: pointer;
-   padding: 5px 30px;
   transition: 0.5s;
-  min-width: 12em;
+  width: 100%;
   background: linear-gradient(to right,#0f66ca ,#0d73ba);
-  background-color: #0f66ca;
   color: #fff;
   font-size: 15px;
   font-weight: 800;
